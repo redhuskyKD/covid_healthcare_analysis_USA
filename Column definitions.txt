@@ -1,0 +1,107 @@
+1 HRR
+Hospital Referral Region (HRR), specifying a market within which people generally go to the same hospitals
+
+2 Total Hospital Beds
+Count of all hospitable beds within an HRR that are set up and staffed
+
+3 Total ICU Beds
+Count of all ICU beds within an HRR that are set up and staffed
+
+4 Available Hospital Beds
+How many hospital beds are unoccupied at any given time, on average
+
+5 Potentially Available Hospital Beds*
+How many beds could be available if occupancy rate was reduced by 50% for non-COVID patients
+
+6 Available ICU Beds
+How many ICU beds are unoccupied on average
+
+7 Potentially Available ICU Beds*
+How many beds could be available if occupancy rate was reduced by 50% for non-COVID patients
+
+8 Adult Population
+How many people over the age of 18 living within the HRR
+
+9 Population 65+
+How many people over the age of 65 living within the HRR
+
+10 Projected Infected Individuals
+How many individuals over the age of 18 are expected to get infected with COVID-19 over the entire course of the pandemic
+
+11 Projected Hospitalized Individuals
+How many individuals over the age of 18 are expected to need hospitalization due to COVID-19 over the entire course of the pandemic
+
+12 Projected Individuals Needing ICU Care
+How many individuals over the age of 18 are expected to need ICU care due to COVID-19 over the entire course of the pandemic
+
+13 Hospital Beds Needed, Six Months
+How many hospital/ICU beds would have to be available to care for all patients requiring hospital care within X months
+
+14 Percentage of Available Beds Needed, Six Months
+What percentage of available hospital/ICU beds would need to be committed to COVID patients to care for all patients in X months
+
+15 Percentage of Potentially Available Beds Needed, Six Months
+What percentage of potentially available hospital/ICU beds would need to be committed to COVID patients to care for all patients in X months
+
+16 Percentage of Total Beds Needed, Six Months
+What percentage of all hospital/ICU beds would need to be committed to COVID patients to care for all patients in X months
+
+17 Hospital Beds Needed, Twelve Months
+How many hospital/ICU beds would have to be available to care for all patients requiring hospital care
+
+18 Percentage of Available Beds Needed, Twelve Months
+What percentage of available hospital/ICU beds would need to be committed to COVID patients to care
+
+19 Percentage of Potentially Available Beds Needed, Twelve Months
+What percentage of potentially available hospital/ICU beds would need to be committed to COVID patients to care for all patients
+
+20 Percentage of Total Beds Needed, Twelve Months
+What percentage of all hospital/ICU beds would need to be committed to COVID patients to care for all patients
+
+21 Hospital Beds Needed, Eighteen Months
+How many hospital/ICU beds would have to be available to care for all patients requiring hospital care
+
+22 Percentage of Available Beds Needed, Eighteen Months
+What percentage of available hospital/ICU beds would need to be committed to COVID patients to care for all patients
+
+23 Percentage of Potentially Available Beds Needed, Eighteen Months
+What percentage of potentially available hospital/ICU beds would need to be committed to COVID patients to care for all patients
+
+24 Percentage of Total Beds Needed, Eighteen Months
+What percentage of all hospital/ICU beds would need to be committed to COVID patients to care for all patients
+
+25 ICU Beds Needed, Six Months
+ICU beds within an HRR that are set up and staffed
+
+26 Percentage of Available ICU Beds Needed, Six Months
+What percentage of available hospital/ICU beds would need to be committed to COVID patients to care
+
+27 Percentage of Potentially Available ICU Beds Needed, Six Months
+What percentage of potentially available hospital/ICU beds would need to be committed to COVID patients to care
+
+28 Percentage of Total ICU Beds Needed, Six Months
+What percentage of all hospital/ICU beds would need to be committed to COVID patients to care for all patients
+
+29 ICU Beds Needed, Twelve Months
+ICU beds within an HRR that are set up and staffed
+
+30 Percentage of Available ICU Beds Needed, Twelve Months
+What percentage of available hospital/ICU beds would need to be committed to COVID patients to care
+
+31 Percentage of Potentially Available ICU Beds Needed, Twelve Months
+What percentage of potentially available hospital/ICU beds would need to be committed to COVID patients to care
+
+32 Percentage of Total ICU Beds Needed, Twelve Months
+What percentage of all hospital/ICU beds would need to be committed to COVID patients to care for all patients
+
+33 ICU Beds Needed, Eighteen Months
+ICU beds within an HRR that are set up and staffed
+
+34 Percentage of Available ICU Beds Needed, Eighteen Months
+What percentage of available hospital/ICU beds would need to be committed to COVID patients to care
+
+35 Percentage of Potentially Available ICU Beds Needed, Eighteen Months
+What percentage of potentially available hospital/ICU beds would need to be committed to COVID patients to care
+
+36 Percentage of Total ICU Beds Needed, Eighteen Months
+What percentage of all hospital/ICU beds would need to be committed to COVID patients to care for all patients
