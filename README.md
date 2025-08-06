@@ -25,7 +25,7 @@ The cleaned SQL table was linked to Power BI, where the first dashboard was desi
 - **Population Distribution**: Adult population and those aged 65+
 - **ICU Demand Stress**: Percentage of total ICU beds needed over 6, 12, and 18 months
 - **HRR Slicer**: An interactive slicer to explore each region in isolation
-
+![Dasboard 1](images\Screenshot 2025-08-06 235731.png)
 ---
 
 ## 🧮 Risk Analysis
@@ -49,7 +49,7 @@ A second Power BI dashboard was developed using the enhanced risk-scored dataset
 - Surge Gap Breakdown (Pie chart)  
 - Ribbon Plot of ICU stress, Surge Gap, and Total Hospital Beds by HRR  
 - Risk Label Distribution and related population statistics (Adults and 65+)
-
+![Dashboard 2](images\Screenshot 2025-08-06 235742.png)
 ---
 
 ## 🧬 PCA Analysis
@@ -61,7 +61,8 @@ To understand variance and feature relationships, **Principal Component Analysis
 - The first two components explained over **73%** of the total variance
 - PCA plots visually confirmed **clustering by risk label**, validating feature selection
 - A **3D PCA plot** and **K-Means clustering** further demonstrated the separability of HRRs by underlying healthcare stress patterns
-
+![pca with k-means clustering](images\PCA with K-means clustering.png)
+![3D pca with k-means clustering](images\![pca with k-means clustering](images\PCA with K-means clustering.png))
 ---
 
 ## 🔍 SHAP Explainability
@@ -72,7 +73,7 @@ A tree-based classifier (**XGBoost**) was trained on the enhanced dataset. Using
 - **Pop65 Proportion** helped differentiate Low and Medium risk
 - **Surge Gap** had lesser but notable influence
 - **Force plots** were used to interpret individual HRR predictions, enhancing trust and transparency
-
+![SHAP](images\shap.png)
 ---
 
 ## 📌 Final Remarks
